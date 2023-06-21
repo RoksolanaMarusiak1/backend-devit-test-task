@@ -38,7 +38,7 @@ This is a backend project built with Node.js, Express, and PostgreSQL. It provid
 ## Usage
 1. Set up environment variables:
    - Create a `.env` file in the root directory.
-   - Add the required environment variables in the `.env` file. (e.g., `PORT`, `JWT_ACCESS_SECRETL`, `JWT_REFRESH_SECRET`,  `CLIENT_URL`)
+   - Add the required environment variables in the `.env` file. (e.g., `PORT`, `JWT_ACCESS_SECRET`, `JWT_REFRESH_SECRET`,  `CLIENT_URL`)
 2. Start the development server: `npm run dev`
 
 ## License
